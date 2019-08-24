@@ -38,6 +38,6 @@ int PrimeCheck(int n){
             break;
         }
     }
-
+    
     return isPrime;
 }
