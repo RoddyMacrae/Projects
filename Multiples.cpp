@@ -25,6 +25,6 @@ int main(){
     
     cout << "Sum of multiples: " << endl;
     cout << accumulate(multiples.begin(),multiples.end(),0) << endl;
-
+    
     return 0;
 }
