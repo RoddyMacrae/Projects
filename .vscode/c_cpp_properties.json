@@ -2,9 +2,10 @@
     "configurations": [
         {
             "name": "windows-gcc-x86",
+            "compilerPath": "C:\\mingw64\\bin\\gcc.exe",
             "includePath": [
-                "${workspaceFolder}/**",
-                "C:/MinGW/bin"
+                "C:\\mingw64\\bin\\",
+                "${workspaceFolder}/**"
             ],
             "cStandard": "${default}",
             "cppStandard": "${default}",
