@@ -4,6 +4,12 @@
 
 using namespace std;
 
+/**
+ * Simple maths function
+ * 
+ * @param[in] Number, user input data
+ * @returns sum of multiples of 3 and 5 less than user input number
+*/
 int main(){
 
     int Number;
